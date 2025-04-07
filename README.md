@@ -12,7 +12,7 @@
 ## 🧠 Tech Stack
 - **Frontend**: React.js, Vite, Tailwind CSS
 - **Backend**: Node.js, Express.js, MongoDB
-- **Other Tech**: PHP, MySQL, CodeIgniter, Docker
+- **Other Tech**: PHP, Docker
 - **Tools & Libraries**: JWT, Bcrypt, Nodemailer, Axios, Git
 
 ## 🤝 Connect With Me
