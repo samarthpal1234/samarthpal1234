@@ -8,7 +8,7 @@
 - ⚙️ Worked on real-time sites like [seismichazard.in](http://seismichazard.in) using PHP and MySQL
 - 🐳 Comfortable with containerizing apps using Docker
 - 🤖 Have basic knowledge of AI concepts like LLMs (Large Language Models), training models, and how AI systems work
-- MY personal website (https://sam584.netlify.app/)[samarthpal].
+- MY personal website [samarthpal]  (https://sam584.netlify.app/).
 ## 🧠 Tech Stack
 - **Frontend**: React.js, Vite, Tailwind CSS
 - **Backend**: Node.js, Express.js, MongoDB
